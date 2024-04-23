@@ -85,3 +85,42 @@ You will receive a JSON format response from the server which includes cosine si
 ## Conclusion
 
 The project demonstrates that both APIs return relevant documents as output. However, the ranking of the documents requires improvement. The Scikit-learn API also returns relevant documents for all queries; however, the precision could be enhanced. For certain additional inquiries, the results remain consistent across all three circumstances.
+Test cases
+![IMG-20240422-WA0023](https://github.com/sahithi-cloud/IR-Search-Engine/assets/69617634/a9e94bf9-07ad-452d-a03b-7bbd9f28ea9c)
+![IMG-20240422-WA0024](https://github.com/sahithi-cloud/IR-Search-Engine/assets/69617634/bf78cac8-83b6-4bdb-822f-201f30ca2243)
+![IMG-20240422-WA0025](https://github.com/sahithi-cloud/IR-Search-Engine/assets/69617634/5f78ee86-cd54-4922-a7ac-83700ca76b84)
+![IMG-20240422-WA0026](https://github.com/sahithi-cloud/IR-Search-Engine/assets/69617634/8b86fbda-709e-4183-b956-207972e36ae3)
+![WhatsApp Image 2024-04-22 at 23 20 51_fe534f87](https://github.com/sahithi-cloud/IR-Search-Engine/assets/69617634/9b2efed1-70e8-4898-bfd7-c4a5bd7b55fe)
+## Source Code
+
+### Listings
+Documentation, dependencies, and open-source contributions.
+
+### Dependencies
+
+- **Scrapy** - version 2.11.1
+- **Beautiful Soup** - version 4
+- **Scikit-learn** - version 1.4.2
+- **Flask** - version 3.0.3
+
+## Data Sources
+
+### Libraries
+
+- **Scrapy**: [https://scrapy.org/](https://scrapy.org/)
+- **Beautiful Soup**: [https://www.crummy.com/software/BeautifulSoup/](https://www.crummy.com/software/BeautifulSoup/)
+- **Scikit-learn**: [https://scikit-learn.org/stable/](https://scikit-learn.org/stable/)
+- **Flask**: [https://flask.palletsprojects.com/en/3.0.x/](https://flask.palletsprojects.com/en/3.0.x/)
+
+### Bibliography
+
+- Flask Documentation: [https://flask.palletsprojects.com/en/3.0.x/](https://flask.palletsprojects.com/en/3.0.x/)
+- Scikit-learn Documentation: [https://scikit-learn.org/stable/](https://scikit-learn.org/stable/)
+- Requests Documentation: [https://requests.readthedocs.io/en/latest/](https://requests.readthedocs.io/en/latest/)
+- Scrapy Documentation: [https://scrapy.org/](https://scrapy.org/)
+
+
+
+
+
+
